@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.exe
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.deps.json
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.json
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.dev.json
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.dll
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.pdb
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.Form1.resources
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.Properties.Resources.resources
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.GenerateResource.cache
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfo.cs
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.dll
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.pdb
+C:\Users\User\Desktop\лабы\ИСРППС\List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.genruntimeconfig.cache
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.exe
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.deps.json
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.json
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.dev.json
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.dll
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\bin\Debug\netcoreapp3.1\Lab.pdb
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.Form1.resources
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.Properties.Resources.resources
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.GenerateResource.cache
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfo.cs
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.dll
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.pdb
+C:\Users\User\Desktop\лабы\ИСРППС\2-3. List, tree, trackBar, Timer, MessageBox, menu\Lab\Lab\obj\Debug\netcoreapp3.1\Lab.genruntimeconfig.cache

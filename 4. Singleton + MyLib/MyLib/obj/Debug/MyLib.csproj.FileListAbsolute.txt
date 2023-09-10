@@ -1,0 +1,20 @@
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\bin\Debug\MyLib.dll
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\bin\Debug\MyLib.pdb
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\obj\Debug\MyLib.csproj.CopyComplete
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\obj\Debug\MyLib.dll
+C:\Users\dmerz\source\repos\isrppsLab4\MyLib\obj\Debug\MyLib.pdb
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\bin\Debug\MyLib.dll
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\bin\Debug\MyLib.pdb
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\obj\Debug\MyLib.csproj.CopyComplete
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\obj\Debug\MyLib.dll
+C:\Users\User\Downloads\8. Жуков Тимофей-20230112T165623Z-001\8. Жуков Тимофей\лаб5\MyLib\obj\Debug\MyLib.pdb

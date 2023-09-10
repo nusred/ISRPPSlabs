@@ -1,0 +1,20 @@
+C:\Users\ALEX K\Desktop\C#\ChainRespons_lab\ChainRespons_lab\bin\Debug\ChainRespons_lab.exe.config
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\bin\Debug\ChainRespons_lab.exe.config
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\bin\Debug\ChainRespons_lab.exe
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\bin\Debug\ChainRespons_lab.pdb
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\obj\Debug\ChainRespons_lab.csprojResolveAssemblyReference.cache
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\obj\Debug\ChainRespons_lab.Form1.resources
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\obj\Debug\ChainRespons_lab.Properties.Resources.resources
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\obj\Debug\ChainRespons_lab.csproj.GenerateResource.Cache
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\obj\Debug\ChainRespons_lab.exe
+C:\Users\ALEX K\Desktop\labs\ChainRespons_lab\ChainRespons_lab\obj\Debug\ChainRespons_lab.pdb
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\bin\Debug\ChainRespons_lab.exe.config
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\bin\Debug\ChainRespons_lab.exe
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\bin\Debug\ChainRespons_lab.pdb
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\obj\Debug\ChainRespons_lab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\obj\Debug\ChainRespons_lab.Form1.resources
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\obj\Debug\ChainRespons_lab.Properties.Resources.resources
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\obj\Debug\ChainRespons_lab.csproj.GenerateResource.cache
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\obj\Debug\ChainRespons_lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\obj\Debug\ChainRespons_lab.exe
+C:\Users\User\Desktop\лабы\ИСРППС\Chain-respons\ChainRespons_lab\obj\Debug\ChainRespons_lab.pdb
